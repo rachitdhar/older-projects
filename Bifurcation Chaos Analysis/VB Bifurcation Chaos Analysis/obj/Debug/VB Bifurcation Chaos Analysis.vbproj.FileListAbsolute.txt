@@ -1,0 +1,22 @@
+C:\Users\Rachit_Arshia\AppData\Local\Temporary Projects\VB Bifurcation Chaos Analysis\bin\Debug\VB Bifurcation Chaos Analysis.exe.config
+D:\Rachit\My Programming\VB Lang\VB Bifurcation Chaos Analysis\VB Bifurcation Chaos Analysis\bin\Debug\VB Bifurcation Chaos Analysis.exe.config
+D:\Rachit\My Programming\VB Lang\VB Bifurcation Chaos Analysis\VB Bifurcation Chaos Analysis\bin\Debug\VB Bifurcation Chaos Analysis.exe
+D:\Rachit\My Programming\VB Lang\VB Bifurcation Chaos Analysis\VB Bifurcation Chaos Analysis\bin\Debug\VB Bifurcation Chaos Analysis.pdb
+D:\Rachit\My Programming\VB Lang\VB Bifurcation Chaos Analysis\VB Bifurcation Chaos Analysis\bin\Debug\VB Bifurcation Chaos Analysis.xml
+D:\Rachit\My Programming\VB Lang\VB Bifurcation Chaos Analysis\VB Bifurcation Chaos Analysis\obj\Debug\VB_Bifurcation_Chaos_Analysis.Form1.resources
+D:\Rachit\My Programming\VB Lang\VB Bifurcation Chaos Analysis\VB Bifurcation Chaos Analysis\obj\Debug\VB_Bifurcation_Chaos_Analysis.Resources.resources
+D:\Rachit\My Programming\VB Lang\VB Bifurcation Chaos Analysis\VB Bifurcation Chaos Analysis\obj\Debug\VB Bifurcation Chaos Analysis.vbproj.GenerateResource.Cache
+D:\Rachit\My Programming\VB Lang\VB Bifurcation Chaos Analysis\VB Bifurcation Chaos Analysis\obj\Debug\VB Bifurcation Chaos Analysis.exe
+D:\Rachit\My Programming\VB Lang\VB Bifurcation Chaos Analysis\VB Bifurcation Chaos Analysis\obj\Debug\VB Bifurcation Chaos Analysis.xml
+D:\Rachit\My Programming\VB Lang\VB Bifurcation Chaos Analysis\VB Bifurcation Chaos Analysis\obj\Debug\VB Bifurcation Chaos Analysis.pdb
+D:\Rachit\My Early Programming\VB Lang\VB Bifurcation Chaos Analysis\VB Bifurcation Chaos Analysis\bin\Debug\VB Bifurcation Chaos Analysis.exe.config
+D:\Rachit\My Early Programming\VB Lang\VB Bifurcation Chaos Analysis\VB Bifurcation Chaos Analysis\bin\Debug\VB Bifurcation Chaos Analysis.exe
+D:\Rachit\My Early Programming\VB Lang\VB Bifurcation Chaos Analysis\VB Bifurcation Chaos Analysis\bin\Debug\VB Bifurcation Chaos Analysis.pdb
+D:\Rachit\My Early Programming\VB Lang\VB Bifurcation Chaos Analysis\VB Bifurcation Chaos Analysis\bin\Debug\VB Bifurcation Chaos Analysis.xml
+D:\Rachit\My Early Programming\VB Lang\VB Bifurcation Chaos Analysis\VB Bifurcation Chaos Analysis\obj\Debug\VB_Bifurcation_Chaos_Analysis.Form1.resources
+D:\Rachit\My Early Programming\VB Lang\VB Bifurcation Chaos Analysis\VB Bifurcation Chaos Analysis\obj\Debug\VB_Bifurcation_Chaos_Analysis.Resources.resources
+D:\Rachit\My Early Programming\VB Lang\VB Bifurcation Chaos Analysis\VB Bifurcation Chaos Analysis\obj\Debug\VB Bifurcation Chaos Analysis.vbproj.GenerateResource.cache
+D:\Rachit\My Early Programming\VB Lang\VB Bifurcation Chaos Analysis\VB Bifurcation Chaos Analysis\obj\Debug\VB Bifurcation Chaos Analysis.vbproj.CoreCompileInputs.cache
+D:\Rachit\My Early Programming\VB Lang\VB Bifurcation Chaos Analysis\VB Bifurcation Chaos Analysis\obj\Debug\VB Bifurcation Chaos Analysis.exe
+D:\Rachit\My Early Programming\VB Lang\VB Bifurcation Chaos Analysis\VB Bifurcation Chaos Analysis\obj\Debug\VB Bifurcation Chaos Analysis.xml
+D:\Rachit\My Early Programming\VB Lang\VB Bifurcation Chaos Analysis\VB Bifurcation Chaos Analysis\obj\Debug\VB Bifurcation Chaos Analysis.pdb

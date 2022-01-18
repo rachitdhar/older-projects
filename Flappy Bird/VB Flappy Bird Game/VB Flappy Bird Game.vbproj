@@ -1,0 +1,235 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{C982A1C0-A4ED-4E38-A591-B5A899E89A50}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>VB_Flappy_Bird_Game.My.MyApplication</StartupObject>
+    <RootNamespace>VB_Flappy_Bird_Game</RootNamespace>
+    <AssemblyName>VB Flappy Bird Game</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>VB Flappy Bird Game.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>VB Flappy Bird Game.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Bonus.Designer.vb">
+      <DependentUpon>Bonus.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Bonus.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Game.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Game.Designer.vb">
+      <DependentUpon>Game.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Level1.Designer.vb">
+      <DependentUpon>Level1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Level1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Level2.Designer.vb">
+      <DependentUpon>Level2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Level2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Level3.Designer.vb">
+      <DependentUpon>Level3.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Level3.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Level4.Designer.vb">
+      <DependentUpon>Level4.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Level4.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Level5.Designer.vb">
+      <DependentUpon>Level5.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Level5.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="levelscr1.Designer.vb">
+      <DependentUpon>levelscr1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="levelscr1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="levelscr2.Designer.vb">
+      <DependentUpon>levelscr2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="levelscr2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="levelscr3.Designer.vb">
+      <DependentUpon>levelscr3.vb</DependentUpon>
+    </Compile>
+    <Compile Include="levelscr3.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="levelscr4.Designer.vb">
+      <DependentUpon>levelscr4.vb</DependentUpon>
+    </Compile>
+    <Compile Include="levelscr4.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="levelscr5.Designer.vb">
+      <DependentUpon>levelscr5.vb</DependentUpon>
+    </Compile>
+    <Compile Include="levelscr5.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Startscr.Designer.vb">
+      <DependentUpon>Startscr.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Startscr.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Bonus.resx">
+      <DependentUpon>Bonus.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Game.resx">
+      <DependentUpon>Game.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Level1.resx">
+      <DependentUpon>Level1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Level2.resx">
+      <DependentUpon>Level2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Level3.resx">
+      <DependentUpon>Level3.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Level4.resx">
+      <DependentUpon>Level4.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Level5.resx">
+      <DependentUpon>Level5.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="levelscr1.resx">
+      <DependentUpon>levelscr1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="levelscr2.resx">
+      <DependentUpon>levelscr2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="levelscr3.resx">
+      <DependentUpon>levelscr3.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="levelscr4.resx">
+      <DependentUpon>levelscr4.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="levelscr5.resx">
+      <DependentUpon>levelscr5.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Startscr.resx">
+      <DependentUpon>Startscr.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,24 @@
+C:\Users\Rachit_Arshia\AppData\Local\Temporary Projects\VB Brick Breaker\bin\Debug\VB Brick Breaker.exe.config
+D:\Rachit\My Programming\VB Lang\VB Brick Breaker\VB Brick Breaker\bin\Debug\VB Brick Breaker.exe.config
+D:\Rachit\My Programming\VB Lang\VB Brick Breaker\VB Brick Breaker\bin\Debug\VB Brick Breaker.exe
+D:\Rachit\My Programming\VB Lang\VB Brick Breaker\VB Brick Breaker\bin\Debug\VB Brick Breaker.pdb
+D:\Rachit\My Programming\VB Lang\VB Brick Breaker\VB Brick Breaker\bin\Debug\VB Brick Breaker.xml
+D:\Rachit\My Programming\VB Lang\VB Brick Breaker\VB Brick Breaker\obj\Debug\VB_Brick_Breaker.Form1.resources
+D:\Rachit\My Programming\VB Lang\VB Brick Breaker\VB Brick Breaker\obj\Debug\VB_Brick_Breaker.Resources.resources
+D:\Rachit\My Programming\VB Lang\VB Brick Breaker\VB Brick Breaker\obj\Debug\VB Brick Breaker.vbproj.GenerateResource.Cache
+D:\Rachit\My Programming\VB Lang\VB Brick Breaker\VB Brick Breaker\obj\Debug\VB Brick Breaker.exe
+D:\Rachit\My Programming\VB Lang\VB Brick Breaker\VB Brick Breaker\obj\Debug\VB Brick Breaker.xml
+D:\Rachit\My Programming\VB Lang\VB Brick Breaker\VB Brick Breaker\obj\Debug\VB Brick Breaker.pdb
+D:\Rachit\My Programming\VB Lang\VB Brick Breaker\VB Brick Breaker\obj\Debug\VB_Brick_Breaker.Form2.resources
+D:\Rachit\My Early Programming\VB Lang\VB Brick Breaker\VB Brick Breaker\bin\Debug\VB Brick Breaker.exe.config
+D:\Rachit\My Early Programming\VB Lang\VB Brick Breaker\VB Brick Breaker\bin\Debug\VB Brick Breaker.exe
+D:\Rachit\My Early Programming\VB Lang\VB Brick Breaker\VB Brick Breaker\bin\Debug\VB Brick Breaker.pdb
+D:\Rachit\My Early Programming\VB Lang\VB Brick Breaker\VB Brick Breaker\bin\Debug\VB Brick Breaker.xml
+D:\Rachit\My Early Programming\VB Lang\VB Brick Breaker\VB Brick Breaker\obj\Debug\VB_Brick_Breaker.Form1.resources
+D:\Rachit\My Early Programming\VB Lang\VB Brick Breaker\VB Brick Breaker\obj\Debug\VB_Brick_Breaker.Form2.resources
+D:\Rachit\My Early Programming\VB Lang\VB Brick Breaker\VB Brick Breaker\obj\Debug\VB_Brick_Breaker.Resources.resources
+D:\Rachit\My Early Programming\VB Lang\VB Brick Breaker\VB Brick Breaker\obj\Debug\VB Brick Breaker.vbproj.GenerateResource.cache
+D:\Rachit\My Early Programming\VB Lang\VB Brick Breaker\VB Brick Breaker\obj\Debug\VB Brick Breaker.vbproj.CoreCompileInputs.cache
+D:\Rachit\My Early Programming\VB Lang\VB Brick Breaker\VB Brick Breaker\obj\Debug\VB Brick Breaker.exe
+D:\Rachit\My Early Programming\VB Lang\VB Brick Breaker\VB Brick Breaker\obj\Debug\VB Brick Breaker.xml
+D:\Rachit\My Early Programming\VB Lang\VB Brick Breaker\VB Brick Breaker\obj\Debug\VB Brick Breaker.pdb
